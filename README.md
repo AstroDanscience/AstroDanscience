@@ -3,7 +3,7 @@
 
 I'm a passionate Mechatronics Engineer, Python developer, Researcher and Data Scientist, enthusiastic about creating meaningful solutions using code and mathematical models. Welcome to my GitHub profile!
 
-<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
+![Data](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)
 
 🚀 Skills
 - **Main Skills**: Analysis and Mathematical Modelling  & Programming
