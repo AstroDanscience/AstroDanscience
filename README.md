@@ -3,6 +3,8 @@
 
 I'm a passionate Mechatronics Engineer, Python developer, Researcher and Data Scientist, enthusiastic about creating meaningful solutions using code and mathematical models. Welcome to my GitHub profile!
 
+<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
+
 🚀 Skills
 - **Main Skills**: Analysis and Mathematical Modelling  & Programming
 
@@ -21,7 +23,7 @@ Here are some of my notable projects:
 
 🔧 Projects
 
- 1. Analysis of Data from the Pierre Auger Observatory
+### 1. Analysis of Data from the Pierre Auger Observatory
 
 #### Description
 In collaboration with the Astrophysics Group of the Autonomous University of Chiapas, I conducted an in-depth analysis of data released by the Pierre Auger Observatory. The project focused on investigating the origin of cosmic rays and analyzing their anisotropy. The study involved utilizing ROOT and Python, along with extensive use of databases and relevant scientific literature. As a final step, I developed a graphical interface using Tkinter for the automation of correlation searches between various observatory variables.
