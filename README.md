@@ -1,7 +1,7 @@
 
 👋 Hello, I'm Astro!
 
-I'm a passionate Mechatronics Engineer, Python developer, Researcher and SAP Consultant, enthusiastic about creating meaningful solutions using code and mathematical models. Welcome to my GitHub profile!
+I'm a passionate Mechatronics Engineer, SAP Consultant, Researcher and Python Developer, enthusiastic about creating meaningful solutions using code and mathematical models. Welcome to my GitHub profile!
 
 ![Data](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)
 
