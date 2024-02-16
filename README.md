@@ -8,7 +8,7 @@ I'm a passionate Mechatronics Engineer, SAP Consultant, Researcher and Python De
 🚀 Skills
 - **Main Skills**: Analysis and Mathematical Modelling  & Programming
 
-- **Languages**: Python (Fluent), C++ (Fluent)
+- **Languages**: ABAP(Fluent), Python (Fluent), C++ (Fluent)
 
 - **Technologies**: NumPy, Pandas, Scikit-Learn, TensorFlow
 
