@@ -60,11 +60,11 @@ Participated in the NASA Space Apps Challenge where we developed a web applicati
 - Data Visualization: Utilized libraries for graphical representations.
 
 #### Project Repository
-[Link to the project repository](Link to the project repository)
+Codes and data can not be published.
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](Link to your LinkedIn profile)
+- LinkedIn: www.linkedin.com/in/daniel-arenas-munera-bb430a22b
 - Email: danprogramator@gmail.com
 
 ## 🌟 Let's Connect
